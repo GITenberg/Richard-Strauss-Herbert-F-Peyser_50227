@@ -1,10 +1,16 @@
 _repo: Richard-Strauss-Herbert-F-Peyser_50227
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50227-h/images/cover.jpg
 creator:
   author:
     agent_name: Peyser, Herbert F.
     gutenberg_agent_id: '45207'
     url: http://www.gutenberg.org/2009/agents/45207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50227#Richard-Strauss-Herbert-F-Peyser
 gutenberg_issued: '2015-10-15'
 gutenberg_type: Text
 identifiers:
